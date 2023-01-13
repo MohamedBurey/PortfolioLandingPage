@@ -1,11 +1,28 @@
 h1 {
-  color: black;
+  color: white;
 }
 
 body {
-  background-color: whitesmoke;
-}
+  background-color: black;
+} 
 
 .navbar {
-  color: rgb(60, 16, 16);
+  color: white;
 }
+
+h2 {
+  color: white;
+}
+
+div {
+  color: white;
+}
+
+li {
+  color: green;
+}
+a {
+  color: red;
+  font-size: small;
+}
+
