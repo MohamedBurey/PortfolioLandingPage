@@ -1,9 +1,11 @@
 h1 {
   color: white;
+  text-align: center;
+  font-style: italic;
 }
 
 body {
-  background-color: black;
+  background-color: burlywood;
 } 
 
 .navbar {
@@ -12,6 +14,10 @@ body {
 
 h2 {
   color: white;
+    font-style: italic;
+    text-align: center;
+    font-style: italic;
+  
 }
 
 div {
@@ -19,10 +25,15 @@ div {
 }
 
 li {
-  color: green;
+  color: black;
 }
 a {
-  color: red;
+  color: black;
   font-size: small;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
 }
 
