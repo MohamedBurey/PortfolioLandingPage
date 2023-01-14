@@ -42,3 +42,12 @@ body {
   background-image: url("mypic.jpg ");
   background-color: black;
  }
+
+ .my-class {
+  border: 2px red;
+  padding: 10px;
+  background-color: gray;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
