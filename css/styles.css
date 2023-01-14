@@ -44,10 +44,11 @@ body {
  }
 
  .my-class {
-  border: 2px red;
+  border: 2px green;
   padding: 10px;
-  background-color: gray;
+  background-color: rgb(105, 68, 68);
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
-}
+ }
+ 
