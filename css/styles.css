@@ -46,7 +46,7 @@ body {
  .my-class {
   border: 2px green;
   padding: 10px;
-  background-color: rgb(105, 68, 68);
+  background-color: gray;
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
