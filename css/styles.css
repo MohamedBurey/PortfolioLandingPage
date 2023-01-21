@@ -40,13 +40,13 @@ ul {
 
 body {
   background-image: url("mypic.jpg ");
-  background-color: black;
+  background-color: rgb(39, 115, 201);
  }
 
  .my-class {
-  border: 2px green;
+  border: 2px white;
   padding: 10px;
-  background-color: gray;
+  background-color: darkblue;
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
